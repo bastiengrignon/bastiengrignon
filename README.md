@@ -2,9 +2,11 @@
 
 ---
 
+# How to contact me
 ![GitHub followers](https://img.shields.io/github/followers/bastiengrignon?style=social)
 [![Linkedin](https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin)](https://www.linkedin.com/in/bastien-grignon/)
 [![Stack Exchange reputation](https://img.shields.io/stackexchange/stackoverflow/r/10794636?color=%23F48024&label=Stack%20Overflow&logo=stackoverflow)](https://stackoverflow.com/users/10794636/bastien-grignon?tab=profile)
+[![My website](https://img.shields.io/static/v1?label=&message=My%20website&color=blue)](https://portfolio-grignon.herokuapp.com)
 
 # Github Status
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bastiengrignon&theme=radical&exclude_repo=github-readme-stats)
