@@ -2,6 +2,14 @@
 
 ---
 
+# Tech known
+
+HTML, CSS, PHP, MySQL, JavaScript/TypeScript, ReactJS, TailwindCSS, C/C++, Java, Spring
+
+Git, GitHub, GitLab, TravisCI, Heroku, Vercel, Trello
+
+
+
 # Get in touch
 ![GitHub followers](https://img.shields.io/github/followers/bastiengrignon?style=social)
 [![Linkedin](https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin)](https://www.linkedin.com/in/bastien-grignon/)
