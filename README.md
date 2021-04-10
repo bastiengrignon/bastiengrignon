@@ -2,7 +2,7 @@
 
 ---
 
-# [Website](https://portfolio-bastien.vercel.app)
+# [Portfolio](https://portfolio-bastien.vercel.app)
 
 # Tech known
 
