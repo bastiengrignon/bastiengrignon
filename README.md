@@ -3,6 +3,11 @@
     <img src="https://visitor-badge.glitch.me/badge?page_id=bastiengrignon" alt="visitor badge"/>
 </p>
 
+## :briefcase: My projects
+- <a href="https://festivalmazette.fr">Festival Mazette!</a>
+- <a href="https://github.com/ISEP-dev">Github ISEP projects</a>
+
+
 ## 🙋‍♂️ Get in touch
 
 <p align="center">
